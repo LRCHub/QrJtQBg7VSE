@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "スイミー",
+  "base_artist": "ゆある",
+  "createdAt": "2026-03-06T13:50:46.791771Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スイミー",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/01_スイミー_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スイミー",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/02_スイミー_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スイミー",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/03_スイミー_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スイミー",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/04_スイミー_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スイミー",
+      "artist": "avex",
+      "has_synced": true,
+      "path": "select/05_スイミー_avex.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スイミー",
+      "artist": "ゆある",
+      "has_synced": false,
+      "path": "select/pl_01_スイミー_ゆある.txt"
+    }
+  ]
+}
